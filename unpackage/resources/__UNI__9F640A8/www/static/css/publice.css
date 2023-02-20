@@ -1,0 +1,13 @@
+.status_bar{
+	height: var(--status-bar-height);
+	width: 100%;
+}
+.container{
+	min-height: 100vh;
+	overflow: auto;
+	overflow-x: hidden;
+	width: 100vw;
+	padding: 30rpx;
+	box-sizing: border-box;
+	background-color: #fff;
+}

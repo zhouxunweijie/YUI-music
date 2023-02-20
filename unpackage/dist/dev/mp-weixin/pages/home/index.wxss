@@ -1,0 +1,9 @@
+.container_body.data-v-71e217db {
+  min-height: calc(100vh - (180rpx + 0px));
+  overflow: auto;
+  overflow-x: hidden;
+  width: 100vw;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+

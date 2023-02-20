@@ -1,0 +1,31 @@
+.tabbar.data-v-5fa8d880 {
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  width: 100vw;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+}
+.tabbar_item.data-v-5fa8d880 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10rpx 0;
+}
+.tabbar_item .img.data-v-5fa8d880 {
+  width: 52rpx;
+  height: 52rpx;
+}
+.tabbar_item .text.data-v-5fa8d880 {
+  font-size: 18rpx;
+  line-height: 18rpx;
+  color: #8e8e8e;
+  margin-top: 10rpx;
+}
+.tabbar_item .text.active.data-v-5fa8d880 {
+  color: #333333;
+}
+

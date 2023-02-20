@@ -1,0 +1,46 @@
+.group.data-v-373b9194 {
+  background-color: #fff;
+  border-radius: 8rpx;
+  padding: 20rpx 30rpx;
+}
+.group .group_title.data-v-373b9194 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.group .group_title .text.data-v-373b9194 {
+  color: #999999;
+  font-size: 21rpx;
+  line-height: 21rpx;
+  float: left;
+  text-spacing: 1;
+}
+.group .group_title .group_utils.data-v-373b9194 {
+  float: right;
+  width: 36rpx;
+  height: 36rpx;
+}
+.song_list_item.data-v-373b9194 {
+  margin-top: 18rpx;
+  display: flex;
+}
+.song_list_item_img.data-v-373b9194 {
+  width: 90rpx;
+  height: 90rpx;
+  border-radius: 8rpx;
+}
+.song_list_item_name.data-v-373b9194 {
+  padding-left: 20rpx;
+}
+.song_list_item_name .text.data-v-373b9194 {
+  font-size: 28rpx;
+  color: #959595;
+  display: block;
+}
+.song_list_item_name .text.name.data-v-373b9194 {
+  color: #171717;
+}
+.container.data-v-373b9194 {
+  height: 100vh;
+}
+

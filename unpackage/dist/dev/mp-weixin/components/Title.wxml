@@ -1,0 +1,1 @@
+<view><view class="songListGroup"><view class="songListGroupTitle"><text class="name">{{item.name}}</text><view class="more">更多<image class="img" src="../static/icon/jiantou.png" mode></image></view></view><view class="song_container"><slot></slot></view></view></view>

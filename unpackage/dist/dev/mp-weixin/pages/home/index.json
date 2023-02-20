@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "uni-transition": "/uni_modules/uni-transition/components/uni-transition/uni-transition",
+    "aui-loading": "/components/aui-loading/aui-loading",
+    "tab-bar": "/pages/home/components/TabBar",
+    "play-group": "/pages/home/components/playGroup",
+    "home": "/pages/home/components/home",
+    "search": "/pages/home/components/search"
+  }
+}

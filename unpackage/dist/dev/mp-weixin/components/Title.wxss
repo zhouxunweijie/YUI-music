@@ -1,0 +1,29 @@
+.songListGroup {
+  padding: 20rpx 30rpx 0;
+  box-sizing: border-box;
+}
+.songListGroupTitle {
+  font-size: 28rpx;
+  color: #101010;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.songListGroupTitle .more {
+  color: #dbdbdb;
+  display: flex;
+  font-size: 22rpx;
+  align-items: center;
+  border: 2rpx solid #dbdbdb;
+  border-radius: 35rpx;
+  padding: 5rpx 10rpx;
+}
+.songListGroupTitle .more .img {
+  width: 22rpx;
+  height: 22rpx;
+}
+.songListGroup .song_container {
+  padding-top: 28rpx;
+  box-sizing: border-box;
+}
+

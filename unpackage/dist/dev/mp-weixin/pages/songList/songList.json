@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "aui-loading": "/components/aui-loading/aui-loading",
+    "play-group": "/pages/home/components/playGroup"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "aui-loading": "/components/aui-loading/aui-loading",
+    "search": "/components/search"
+  }
+}
